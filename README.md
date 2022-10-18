@@ -37,3 +37,5 @@ dengan melakukan perintah a=int(a) dan b=int(b)
 
 10. jika sudah jadi semua maka hasil nya akan menjadi seperti ini
 
+![hasil](https://user-images.githubusercontent.com/115516758/196391770-b334739e-4e6b-44ed-b237-5647fc404940.PNG)
+
